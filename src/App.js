@@ -50,7 +50,7 @@ function App() {
     }, 2000);
 
     return () => clearInterval(interval.current)
-  },[waterLevel]);
+  },[waterLevel, waterToggle]);
 
   return (
     <div className="App">
