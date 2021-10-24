@@ -30,7 +30,6 @@ function App() {
     
       if(waterToggle === 'increase' && waterLevel < 5) {
         setWaterLevel(waterLevel + 1);
-        console.log('increase test')
       }
       else if(waterToggle === 'decrease' && waterLevel > 0) {
         setWaterLevel(waterLevel - 1);
@@ -45,7 +44,6 @@ function App() {
     if (waterToggle === 'off') return null;
 
     interval.current = setInterval(() => {
-      console.log('useeffect trigger' + waterLevel)
       waterChanger();
     }, 2000);
 
