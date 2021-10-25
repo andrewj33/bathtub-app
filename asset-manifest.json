@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bathtub-app/static/css/main.4a13c5a7.chunk.css",
-    "main.js": "/bathtub-app/static/js/main.96907a28.chunk.js",
-    "main.js.map": "/bathtub-app/static/js/main.96907a28.chunk.js.map",
+    "main.js": "/bathtub-app/static/js/main.b411563b.chunk.js",
+    "main.js.map": "/bathtub-app/static/js/main.b411563b.chunk.js.map",
     "runtime-main.js": "/bathtub-app/static/js/runtime-main.699dd781.js",
     "runtime-main.js.map": "/bathtub-app/static/js/runtime-main.699dd781.js.map",
     "static/js/2.5e6d5efc.chunk.js": "/bathtub-app/static/js/2.5e6d5efc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.699dd781.js",
     "static/js/2.5e6d5efc.chunk.js",
     "static/css/main.4a13c5a7.chunk.css",
-    "static/js/main.96907a28.chunk.js"
+    "static/js/main.b411563b.chunk.js"
   ]
 }
